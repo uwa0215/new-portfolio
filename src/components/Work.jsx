@@ -20,7 +20,7 @@ const Work = () => {
                     flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'></span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://lemon-restauran.vercel.app/n">
                                  <button className='text-center rounded-lg px-4 py-3 m-2 
                                  bg-white text-gray-700 font-bold'>
                                     Live View
@@ -40,7 +40,7 @@ const Work = () => {
                     flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'></span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://travel-jcm.netlify.app/">
                                  <button className='text-center rounded-lg px-4 py-3 m-2 
                                  bg-white text-gray-700 font-bold'>
                                     Live View
